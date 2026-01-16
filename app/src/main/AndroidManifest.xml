@@ -2,9 +2,7 @@
     package="com.example.ilkapk">
 
     <application
-        android:label="ilk-apk"
-        android:icon="@mipmap/ic_launcher"
-        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        android:label="ilk-apk">
 
         <activity
             android:name=".MainActivity"
