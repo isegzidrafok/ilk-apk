@@ -1,1 +1,3 @@
+rootProject.name = "ilk-apk"
+include(":app")
 
